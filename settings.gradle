@@ -1,0 +1,2 @@
+include ':app', ':libstz'
+rootProject.name='stzz'
